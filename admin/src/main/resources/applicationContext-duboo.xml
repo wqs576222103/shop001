@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+
+    <!--提供方名称-->
+    <dubbo:application name="admin-provider"/>
+    <!--暴露使用multicast广播注册中心服务地址，打扰了
+    <dubbo:registry address="multicast://224.5.6.7:1234" />-->
+    <!--暴露使用zookeeper注册中心服务地址-->
+    <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
+    <!--暴露服务的端口和协议-->
+    <dubbo:protocol name="dubbo" port="20880"/>
+
+    <!--把要暴露的service交给spring管理-->
+    <bean id="itemRpcService" class="org.cdlg.service.rpc.Impl.ItemRpcServiceImpl"/>
+    <!--配置要暴露的服务-->
+    <dubbo:service interface="org.cdlg.service.rpc.ItemRpcService" ref="itemRpcService"/>
+
+</beans>

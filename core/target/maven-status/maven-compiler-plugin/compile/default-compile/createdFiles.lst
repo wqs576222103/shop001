@@ -1,0 +1,4 @@
+org\cdlg\service\Impl\JedisServiceImpl.class
+org\cdlg\converter\CallbackMappingJackson2HttpMessageConverter.class
+org\cdlg\bean\User.class
+org\cdlg\service\JedisService.class

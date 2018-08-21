@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd
+http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+
+	<!-- 配置事物管理器 -->
+	<bean id="transactionManager"
+		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<!-- 注入数据库连接池 -->
+		<property name="dataSource" ref="dataSource" />
+	</bean>
+
+
+	<tx:advice id="txAdvice" transaction-manager="transactionManager">
+		<tx:attributes>
+			<!--配置切入点-->
+			<tx:method name="save*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="false" />
+			<tx:method name="insert*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="false" />
+			<tx:method name="add*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="false" />
+			<tx:method name="update*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="false" />
+			<tx:method name="modify*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="false" />
+			<tx:method name="edit*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="false" />
+			<tx:method name="delete*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="false" />
+			<tx:method name="remove*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="false" />
+			<tx:method name="find*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="true" />
+			<tx:method name="query*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="true" />
+			<tx:method name="get*" isolation="REPEATABLE_READ"
+				propagation="REQUIRED" read-only="true" />
+
+		</tx:attributes>
+
+	</tx:advice>
+
+
+	<!-- 配置切面 -->
+	<!-- 其中第一个*代表返回值，第二*代表service下子包，第三个*代表方法名，“（..）”代表方法参数。
+	service包或者子包里的任意方法的执行： -->
+	<aop:config>
+		<aop:pointcut expression="execution(* org.cdlg.service..*Impl.*(..))"
+			id="txPc" />
+		<!--定义通知器-->
+		<aop:advisor advice-ref="txAdvice" pointcut-ref="txPc" />
+	</aop:config>
+
+
+
+</beans>

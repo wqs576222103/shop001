@@ -1,0 +1,35 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+<!--只能使用一个placeholder。。。。-->
+   <!-- <context:property-placeholder location="classpath:jedis.properties" ignore-unresolvable="true"/>-->
+<!--IOC-->
+    <bean id="jedisPoolConfig" class="redis.clients.jedis.JedisPoolConfig">
+        <property name="maxTotal" value="30"/>
+        <property name="maxWaitMillis" value="3000"/>
+
+
+        <!--<property name="maxIdle" value="15"/>-->
+    </bean>
+   <bean id="jedisPool" class="redis.clients.jedis.JedisPool">
+       <constructor-arg name="host" value="192.168.230.128"/>
+        <constructor-arg name="port" value="6379"/>
+
+        <constructor-arg name="poolConfig" ref="jedisPoolConfig"/>
+
+        <constructor-arg name="password" value="456789asd"/>
+       <constructor-arg name="timeout" value="10000"/>
+    </bean>
+<!--ref="jedisPool" 相当于用上面配置去注入一个jedisPool对象-->
+    <!--name="jedisPool" 是需要JedisServiceImpl的一个set方法来注入-->
+    <bean id="jedisService" class="org.cdlg.service.Impl.JedisServiceImpl">
+        <property name="jedisPool" ref="jedisPool"></property>
+    </bean>
+
+
+
+
+
+</beans>

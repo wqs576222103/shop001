@@ -1,0 +1,57 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+	<!-- 配置加properties文件 -->
+	<context:property-placeholder location="classpath:jdbc.properties"  ignore-unresolvable="true" />
+
+	<!-- 配置数据库连接池 -->
+	<bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource">
+		<property name="driverClassName" value="${jdbc.driver}" />
+		<property name="url" value="${jdbc.url}?useUnicode=true&amp;characterEncoding=UTF-8"></property>
+		<property name="username" value="${jdbc.username}" />
+		<property name="password" value="${jdbc.password}" />
+	</bean>
+
+
+
+
+
+	<!-- 配置SqlSeesionFactory -->
+	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+		<!-- 数据库连接池 -->
+		<property name="dataSource" ref="dataSource" />
+
+		<!-- 加载mybatis的配置文件-->
+		<property name="configLocation" value="classpath:SqlMapConfig.xml" />
+		<!-- 配置集成分页助手-->
+		<property name="plugins">
+			<array>
+				<bean class="com.github.pagehelper.PageInterceptor">
+					<property name="properties">
+                   <value>
+					   params=value1
+				   </value>
+					</property>
+				</bean>
+			</array>
+		</property>
+
+	</bean>
+
+	<!-- 配置扫描包 -->
+	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+		<!-- 指定扫描的包 -->
+		<property name="basePackage" value="org.cdlg.mapper" />
+	</bean>
+	<!-- 配置mapper位置 -->
+	<bean class="tk.mybatis.spring.mapper.MapperScannerConfigurer">
+		<!-- 指定扫描的包 -->
+		<property name="basePackage" value="org.cdlg.mapper" />
+	</bean>
+
+
+</beans>
