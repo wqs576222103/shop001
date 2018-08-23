@@ -28,6 +28,7 @@ public class CallbackMappingJackson2HttpMessageConverter extends MappingJackson2
     @Override
     protected void writeInternal(Object object, HttpOutputMessage outputMessage) throws IOException, HttpMessageNotWritableException {
 // 从threadLocal中获取当前的Request对象
+
         HttpServletRequest request=((ServletRequestAttributes) RequestContextHolder.currentRequestAttributes()).getRequest();
         String callbackParam=request.getParameter(callbackName);
         if (StringUtil.isEmpty(callbackParam)){

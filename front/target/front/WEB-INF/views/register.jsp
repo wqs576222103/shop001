@@ -277,6 +277,7 @@ function addToFavorite() {
 
 
 <script id="box01" type="text/temp">
+
 <div class="form thickbox-form">
     <div class="ac ftx-01 mb10">为了提升您的账户安全，请验证手机</div>
 

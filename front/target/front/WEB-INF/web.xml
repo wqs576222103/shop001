@@ -50,6 +50,8 @@ url-pattern：表示哪些请求交给Spring Web MVC处理，
     <servlet-name>springDispatcherServlet</servlet-name>
     <!--伪静态-->
     <url-pattern>*.html</url-pattern>
+    <!--又一个路径-->
+    <url-pattern>/rpc/*</url-pattern>
   </servlet-mapping>
 
   <welcome-file-list>

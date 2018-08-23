@@ -61,30 +61,7 @@ function protocolReg() {
 }
 //主注册流程
 function reg() {
-   /* var _password = $("#personRegForm [name=password]").val();
-    var _username = $("#personRegForm [name=username]").val();
-    var _phone = $("#personRegForm [name=phone]").val();
-    $.ajax({
-        type : "GET",
-        url : "http://sso.cdlg.com/user/register",
-        contentType : "application/x-www-form-urlencoded; charset=utf-8",
-        data : {password:_password,username:_username,phone:_phone},
-        dataType : 'jsonp',
-        success : function(result) {
-            if(result.status == "success"){
-                // 注册成功，去登录页
-                showMessage('注册成功，请登录！');
-                verc();
-                $("#registsubmit").removeAttr("disabled").removeClass()
-                    .addClass("btn-img btn-regist");
-                isSubmit = false;
-                return;
-            }else{
-                alert('注册失败，请重新注册！   ' + result.data );
-            }
 
-        }
-    });*/
 	if (isSubmit) {
 		return;
 	}

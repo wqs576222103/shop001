@@ -3,6 +3,7 @@ org\cdlg\service\impl\ItemDescServiceImpl.class
 org\cdlg\service\BaseService.class
 org\cdlg\controller\ItemCatController.class
 org\cdlg\service\rpc\Impl\ItemRpcServiceImpl.class
+org\cdlg\service\impl\ItemServiceImpl$1.class
 org\cdlg\service\ItemDescService.class
 org\cdlg\service\impl\BaseServiceImpl.class
 org\cdlg\controller\PageController.class

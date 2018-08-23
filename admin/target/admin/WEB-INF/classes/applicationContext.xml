@@ -9,5 +9,7 @@ http://www.springframework.org/schema/context http://www.springframework.org/sch
    <import resource="applicationContext-service.xml"/>
    <import resource="applicationContext-transaction.xml"/>
     <import resource="applicationContext-jedis.xml"/>
+    <import resource="applicationContext-duboo.xml"/>
+    <import resource="applicationContext-mq.xml"/>
 
 </beans>

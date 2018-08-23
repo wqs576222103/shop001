@@ -6,6 +6,8 @@
        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd 
        http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd">
 
+    <!-- 配置扫描包 -->
+    <context:component-scan base-package="org.cdlg.controller"/>
     <!-- 配置注解驱动 (处理器映射器 +处理器适配器)-->
     <!--<mvc:annotation-driven/>-->
     <mvc:annotation-driven>
@@ -21,12 +23,11 @@
 
     <!--不拦截静态资源-->
 
-    <mvc:resources mapping="/commons/**" location="/commons/"/>
+<!--    <mvc:resources mapping="/commons/**" location="/commons/"/>
     <mvc:resources mapping="/css/**" location="/css/"/>
-    <mvc:resources mapping="/js/**" location="/js/"/>
+    <mvc:resources mapping="/js/**" location="/js/"/>-->
        
-       <!-- 配置扫描包 -->
-       <context:component-scan base-package="org.cdlg.controller"/>
+
 
 
           <!-- 配置视图解析器 -->

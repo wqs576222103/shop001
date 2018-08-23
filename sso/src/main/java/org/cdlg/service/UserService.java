@@ -1,6 +1,7 @@
 package org.cdlg.service;
 
 import org.cdlg.bean.User;
+import org.cdlg.common.Result;
 import org.cdlg.exception.CustomException;
 
 /**
@@ -17,10 +18,12 @@ public interface UserService  {
     public User queryByEmail(String email);
 
      //用户密码登陆
-    public String login(String username,String password) throws CustomException;
+    public Result login(String username, String password) throws CustomException;
      //手机号验证码登陆
     public String loginByPhone(String phone,String code)throws CustomException;
+    public Boolean registerByPhone(String phone,String code);
     //根据令牌查询用户信息(如 第三方token)
     public User queryUserByToken(String token) throws CustomException;
+    public   Boolean check(String param,Integer type);
 
 }

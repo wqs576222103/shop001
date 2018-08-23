@@ -1,4 +1,8 @@
 org\cdlg\controller\IndexController.class
-org\cdlg\controller\UserController.class
+org\cdlg\controller\UserValidController.class
+org\cdlg\config\AlipayConfig.class
+org\cdlg\mq\CustomerMessageListener.class
 org\cdlg\controller\ItemController.class
+org\cdlg\controller\AlipyController.class
+org\cdlg\controller\UserController.class
 org\cdlg\service\rpc\ItemRpcService.class

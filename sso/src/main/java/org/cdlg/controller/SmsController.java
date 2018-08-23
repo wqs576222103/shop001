@@ -24,8 +24,16 @@ public class SmsController {
 
     @RequestMapping(value = "/login/{phone}",method = RequestMethod.POST)
     @ResponseBody
-    public Result sendLoginSms(@PathVariable("phone")String phone ) throws CustomException {
-        smsService.sendLoginSms(phone);
+    public Result sendLoginSms(@PathVariable("phone")String phone) throws CustomException {
+       // smsService.sendLoginSms(phone);
+        smsService.sendSms(phone,2);
+        return ResultUtils.buildSuccess();
+    }
+    @RequestMapping(value = "/getRegisterSms/{phone}/{type}",method = RequestMethod.GET)
+    @ResponseBody
+    public Result registerSendLoginSms(@PathVariable("phone")String phone,@PathVariable("type")Integer type) throws CustomException {
+        // smsService.sendLoginSms(phone);
+        smsService.sendSms(phone,type);
         return ResultUtils.buildSuccess();
     }
 }

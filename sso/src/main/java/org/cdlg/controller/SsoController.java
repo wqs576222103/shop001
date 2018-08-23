@@ -1,6 +1,5 @@
 package org.cdlg.controller;
 
-import org.cdlg.bean.User;
 import org.cdlg.common.Result;
 import org.cdlg.common.ResultUtils;
 import org.cdlg.exception.CustomException;
@@ -23,33 +22,36 @@ public class SsoController {
     @Autowired
     UserService userService;
 
-    @RequestMapping("/check/{pin}/{kind}")
+    @RequestMapping("/check/{param}/{type}")
     @ResponseBody
-    public Result registerValidate(@PathVariable("pin") String nameOrPhone, @PathVariable("kind") int kind,
+    public Result check(@PathVariable("param") String nameOrPhone, @PathVariable("type") Integer type,
                                    @RequestParam("r") String random, @RequestParam("callback") String callback) {
-        //kind 手机和用户，用户1，手机2
-        /*System.out.println(username + "----------------------");
-        System.out.println(kind);
-        System.out.println(random);
-        System.out.println(callback);*/
-        User user = null;
-        if (kind == 1) {
+
+      /*  User user = null;
+        if (type == 1) {
             user = userService.queryByUser(nameOrPhone);
-        } else if (kind == 2) {//手机
+        }else if (type == 2) {//手机
             user = userService.queryByPhone(nameOrPhone);
         }
         //跨域问题
         // Result result=ResultUtils.buildSuccess(user);
         // json= JsonUtils.objectToJson(result);
         // String cal=callback+"("+json+")";
-        return ResultUtils.buildSuccess(user);
+        return ResultUtils.buildSuccess(user);*/
+      Boolean b=userService.check(nameOrPhone,type);
+      return ResultUtils.buildSuccess(b);
+
+
     }
+
 
     @RequestMapping("/login")
     @ResponseBody
-    public Result login(@RequestParam("username") String username, @RequestParam("password") String password) throws CustomException {
-
+    public Result login(@RequestParam("username") String username,
+                        @RequestParam("password") String password,
+                        @RequestParam("callback") String callback) throws CustomException {
+     //  System.out.println(username+"--------------------");
      //应先看redis内存中有没有该用户登录状态，有的话只是设置过期时间？获取页面的token不好获取....
-        return ResultUtils.buildSuccess(userService.login(username,password));
+        return userService.login(username,password);
     }
 }
