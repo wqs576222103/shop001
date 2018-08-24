@@ -11,78 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32460420-40c3-484e-8b21-b34315d5951b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/impl/ItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/impl/ItemServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/admin.war" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/admin.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/admin/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/admin/WEB-INF/classes/org/cdlg/service/impl/ItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/classes/org/cdlg/service/impl/ItemServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/admin/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/core-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/core-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/classes/org/cdlg/service/impl/ItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/classes/org/cdlg/service/impl/ItemServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/surefire-reports/ItemsMapperTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/surefire-reports/ItemsMapperTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/surefire-reports/TEST-ItemsMapperTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/surefire-reports/TEST-ItemsMapperTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/target/surefire-reports/pageHelperTestTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/surefire-reports/pageHelperTestTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/org/cdlg/converter/CallbackMappingJackson2HttpMessageConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/org/cdlg/converter/CallbackMappingJackson2HttpMessageConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/org/cdlg/converter/CallbackMappingJackson2HttpMessageConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/org/cdlg/converter/CallbackMappingJackson2HttpMessageConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/core-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/core-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/front/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/main/resources/applicationContent-duboo" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/main/resources/applicationContext-duboo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/main/webapp/js/register/jdValidate.emReg.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/main/webapp/js/register/jdValidate.emReg.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/classes/org/cdlg/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/classes/org/cdlg/controller/IndexController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/classes/org/cdlg/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/classes/org/cdlg/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front.war" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/WEB-INF/classes/org/cdlg/controller/ItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front/WEB-INF/classes/org/cdlg/controller/ItemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/WEB-INF/classes/org/cdlg/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front/WEB-INF/classes/org/cdlg/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/WEB-INF/classes/org/cdlg/service/impl/ItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front/WEB-INF/classes/org/cdlg/service/impl/ItemServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/WEB-INF/lib/core-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front/WEB-INF/lib/core-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/WEB-INF/views/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front/WEB-INF/views/error.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/WEB-INF/views/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front/WEB-INF/views/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/js/register/jdValidate.emReg.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/front/js/register/jdValidate.emReg.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/js/register/jdValidate.emReg.js___jb_old___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/front/js/taotao.js___jb_old___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/surefire-reports/TEST-TestHttpClient.xml" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/surefire-reports/TEST-TestHttpClient.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/target/surefire-reports/TestHttpClient.txt" beforeDir="false" afterPath="$PROJECT_DIR$/front/target/surefire-reports/TestHttpClient.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/SmsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/SmsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/SsoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/SsoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/Impl/SmsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/Impl/SmsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/Impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/SmsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/SmsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/src/main/resources/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sso/src/main/resources/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/classes/org/cdlg/controller/SmsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/classes/org/cdlg/controller/SmsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/classes/org/cdlg/controller/SsoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/classes/org/cdlg/controller/SsoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/classes/org/cdlg/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/classes/org/cdlg/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/classes/org/cdlg/service/Impl/SmsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/classes/org/cdlg/service/Impl/SmsServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/classes/org/cdlg/service/Impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/classes/org/cdlg/service/Impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/classes/org/cdlg/service/SmsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/classes/org/cdlg/service/SmsService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/classes/org/cdlg/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/classes/org/cdlg/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/classes/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso.war" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/controller/SmsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/controller/SmsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/controller/SsoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/controller/SsoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/service/Impl/SmsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/service/Impl/SmsServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/service/Impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/service/Impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/service/SmsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/service/SmsService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/org/cdlg/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso/target/sso/WEB-INF/lib/core-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sso/target/sso/WEB-INF/lib/core-0.0.1-SNAPSHOT.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/admin/target/" />
@@ -116,7 +45,7 @@
     <session id="116913372">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="51" />
+          <entry key="project.closed" value="53" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="11" />
           <entry key="project.open.time.10" value="1" />
@@ -139,6 +68,7 @@
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="2" />
@@ -146,12 +76,13 @@
           <entry key="project.open.time.56" value="2" />
           <entry key="project.open.time.58" value="2" />
           <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.98" value="1" />
-          <entry key="project.opened" value="55" />
+          <entry key="project.opened" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -159,38 +90,38 @@
           <entry key="applicationContent-duboo" value="4" />
           <entry key="applicationContext-duboo" value="1" />
           <entry key="applicationContext-mq" value="2" />
-          <entry key="class" value="3" />
+          <entry key="class" value="7" />
           <entry key="classpath" value="1" />
           <entry key="css" value="1" />
           <entry key="gif" value="1" />
           <entry key="html" value="1" />
-          <entry key="java" value="558" />
+          <entry key="java" value="572" />
           <entry key="js" value="42" />
           <entry key="js___jb_old___" value="2" />
-          <entry key="jsp" value="85" />
+          <entry key="jsp" value="100" />
           <entry key="pom" value="1" />
           <entry key="project" value="1" />
           <entry key="properties" value="29" />
           <entry key="ts" value="1" />
           <entry key="txt" value="1" />
-          <entry key="xml" value="255" />
+          <entry key="xml" value="263" />
           <entry key="xsd" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
+          <entry key="CLASS" value="7" />
           <entry key="CSS" value="1" />
           <entry key="Eclipse" value="2" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="558" />
-          <entry key="JSP" value="85" />
+          <entry key="JAVA" value="572" />
+          <entry key="JSP" value="100" />
           <entry key="JavaScript" value="42" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="29" />
           <entry key="TypeScript" value="1" />
-          <entry key="XML" value="263" />
+          <entry key="XML" value="271" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -199,20 +130,20 @@
           <entry key="applicationContext-mq" value="476" />
           <entry key="dummy" value="15" />
           <entry key="ft" value="41" />
-          <entry key="java" value="19814" />
+          <entry key="java" value="19986" />
           <entry key="js" value="189" />
-          <entry key="jsp" value="494" />
+          <entry key="jsp" value="542" />
           <entry key="properties" value="152" />
-          <entry key="txt" value="48" />
+          <entry key="txt" value="64" />
           <entry key="xml" value="2750" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19814" />
-          <entry key="JSP" value="494" />
+          <entry key="JAVA" value="19986" />
+          <entry key="JSP" value="542" />
           <entry key="JavaScript" value="189" />
-          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="PLAIN_TEXT" value="79" />
           <entry key="Properties" value="152" />
           <entry key="VTL" value="41" />
           <entry key="XML" value="3350" />
@@ -223,58 +154,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/AlipyController.java">
+        <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/BaseService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="37" column="38" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/SsoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/Impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="32" column="25" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/ValidateUser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="142">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -293,9 +176,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>box01</find>
-      <find>validate/isEmailEngaged</find>
-      <find>box02</find>
       <find>isEmailEngaged</find>
       <find>mail-verify</find>
       <find>mobileCodeDiv</find>
@@ -323,6 +203,9 @@
       <find>sendmCode1</find>
       <find>立即</find>
       <find>alipay</find>
+      <find>applicationContext</find>
+      <find>gbk</find>
+      <find>Notify</find>
     </findStrings>
     <replaceStrings>
       <replace>distinct</replace>
@@ -341,13 +224,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/front/src/main/resources/springmvc.xml" />
-        <option value="$PROJECT_DIR$/admin/src/main/resources/springmvc.xml" />
-        <option value="$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/Rpc/ItemRpcService.java" />
-        <option value="$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/Rpc/Impl/ItemRpcServiceImpl.java" />
-        <option value="$PROJECT_DIR$/core/src/main/resources/applicationContext-duboo.xml" />
-        <option value="$PROJECT_DIR$/front/src/main/resources/applicationContent-duboo" />
-        <option value="$PROJECT_DIR$/front/src/main/java/org/cdlg/service/ItemService.java" />
         <option value="$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/rpc/Impl/ItemRpcServiceImpl.java" />
         <option value="$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/impl/ItemServiceImpl2.java" />
         <option value="$PROJECT_DIR$/front/src/main/java/org/cdlg/service/impl/ItemServiceImpl2.java" />
@@ -389,8 +265,15 @@
         <option value="$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/alipayIumpSum.java" />
         <option value="$PROJECT_DIR$/front/pom.xml" />
         <option value="$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/IndexController.java" />
-        <option value="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.jsp" />
+        <option value="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.close.jsp" />
+        <option value="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.fastpay.refund.query.jsp" />
+        <option value="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.page.pay.jsp" />
+        <option value="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.query.jsp" />
+        <option value="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.refund.jsp" />
+        <option value="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/notify_url.jsp" />
         <option value="$PROJECT_DIR$/front/src/main/java/org/cdlg/config/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.jsp" />
+        <option value="$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/return_url.jsp" />
         <option value="$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/AlipyController.java" />
       </list>
     </option>
@@ -416,9 +299,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -429,7 +312,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -442,97 +324,25 @@
             <path>
               <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cdlg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cdlg" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="sso" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="sso" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -540,7 +350,7 @@
             <path>
               <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -549,43 +359,28 @@
             <path>
               <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="sso" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cdlg" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="sso" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cdlg" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop001" type="462c0819:PsiDirectoryNode" />
-              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cdlg" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shop001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535016645466" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535089114953" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -600,20 +395,6 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\springtool\workspace\shop001\front\src\main\webapp\images" />
-      <recent name="D:\springtool\workspace\shop001\front\src\main\webapp\WEB-INF\views" />
-      <recent name="D:\springtool\workspace\shop001\front\src\main\webapp\WEB-INF" />
-      <recent name="D:\springtool\workspace\shop001\front\src\main\webapp" />
-      <recent name="D:\springtool\workspace\shop001\admin\src\main\java\org\cdlg\mapper" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.cdlg.config" />
-      <recent name="org.cdlg.service.impl" />
-      <recent name="org.cdlg.controller" />
-      <recent name="org.cdlg.service" />
-      <recent name="org.cdlg.converter" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -623,6 +404,20 @@
       <recent name="D:\springtool\workspace\shop001\sso\src\main\webapp\WEB-INF\views" />
       <recent name="D:\springtool\workspace\shop001\front\src\main\resources" />
       <recent name="D:\springtool\workspace\shop001\core\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.cdlg.config" />
+      <recent name="org.cdlg.service.impl" />
+      <recent name="org.cdlg.controller" />
+      <recent name="org.cdlg.service" />
+      <recent name="org.cdlg.converter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\springtool\workspace\shop001\front\src\main\webapp\images" />
+      <recent name="D:\springtool\workspace\shop001\front\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\springtool\workspace\shop001\front\src\main\webapp\WEB-INF" />
+      <recent name="D:\springtool\workspace\shop001\front\src\main\webapp" />
+      <recent name="D:\springtool\workspace\shop001\admin\src\main\java\org\cdlg\mapper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1082,7 +877,9 @@
       <workItem from="1534933772979" duration="12993000" />
       <workItem from="1534987423395" duration="7153000" />
       <workItem from="1534998129364" duration="11067000" />
-      <workItem from="1535015376557" duration="1246000" />
+      <workItem from="1535015376557" duration="1549000" />
+      <workItem from="1535029531828" duration="3467000" />
+      <workItem from="1535074222391" duration="11735000" />
     </task>
     <task id="LOCAL-00001" summary="20180821">
       <created>1534824180076</created>
@@ -1112,7 +909,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534829204014</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="短信验证和支付宝沙箱接口">
+      <created>1535016806071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1535016806071</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1148,13 +952,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275414000" />
+    <option name="totallyTimeSpent" value="290919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1163,14 +967,14 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" sideWeight="0.50070924" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3243626" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32340425" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5900709" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.38723403" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35744682" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32765958" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3286119" />
@@ -1200,180 +1004,10 @@
     <MESSAGE value="buxiaode1" />
     <MESSAGE value="error" />
     <MESSAGE value="right" />
-    <option name="LAST_COMMIT_MESSAGE" value="right" />
+    <MESSAGE value="短信验证和支付宝沙箱接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="短信验证和支付宝沙箱接口" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/cdlg/exception/CustomHandlerException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/mq/CustomerMessageListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.0/commons-httpclient-3.0.jar!/org/apache/commons/httpclient/methods/PostMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="847">
-          <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.0/commons-httpclient-3.0.jar!/org/apache/commons/httpclient/HttpClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="114" column="15" selection-start-line="114" selection-start-column="15" selection-end-line="114" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/controller/ItemCatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/controller/UploadController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.32/mysql-connector-java-5.1.32-sources.jar!/com/mysql/jdbc/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/service/impl/ItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/controller/PageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/impl/ItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="70" column="71" selection-start-line="70" selection-start-column="71" selection-end-line="70" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/js/register/jdValidate.js___jb_old___">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="1556" column="8" selection-start-line="1556" selection-start-column="8" selection-end-line="1556" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/js/static/register/jdValidate.emReg.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="62" column="16" lean-forward="true" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/js/register/jdValidate.emReg.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3901">
-          <caret line="62" column="12" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="237" column="38" selection-start-line="237" selection-start-column="38" selection-end-line="237" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/UserValidController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/ItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/js/static/register/jdValidate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="515" column="16" lean-forward="true" selection-start-line="515" selection-start-column="16" selection-end-line="515" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/js/login/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8533">
-          <caret line="371" column="45" selection-start-line="371" selection-start-column="45" selection-end-line="371" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/register2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="510" column="88" selection-start-line="510" selection-start-column="88" selection-end-line="510" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/js/register/jdValidate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="749" column="18" selection-start-line="749" selection-start-column="18" selection-end-line="749" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sso/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/SmsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/Impl/SmsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -1416,13 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/resources/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -1439,55 +1066,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/3.3.49.ALL/alipay-sdk-java-3.3.49.ALL.jar!/com/alipay/api/AlipayClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1127">
           <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="24" column="55" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/config/AlipayConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/return_url.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/ValidateUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1512,41 +1094,269 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/Impl/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/SsoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="25" />
+        <state relative-caret-position="1035">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="414">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/SsoController.java">
+    <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/service/Impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        <state relative-caret-position="391">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/ValidateUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2303">
+          <caret line="438" column="6" lean-forward="true" selection-start-line="438" selection-start-column="6" selection-end-line="438" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sso/src/main/java/org/cdlg/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
+        <state relative-caret-position="34">
           <caret line="37" column="38" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.close.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.fastpay.refund.query.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.page.pay.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.query.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.trade.refund.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/3.3.49.ALL/alipay-sdk-java-3.3.49.ALL.jar!/com/alipay/api/AlipayResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+          <folding>
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1580#1581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/resources/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/3.3.49.ALL/alipay-sdk-java-3.3.49.ALL.jar!/com/alipay/api/AlipayClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/3.3.49.ALL/alipay-sdk-java-3.3.49.ALL.jar!/com/alipay/api/AlipayMobilePublicMultiMediaClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="414" column="40" selection-start-line="414" selection-start-column="40" selection-end-line="414" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/resources/applicationContext-mq.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/resources/applicationContext-duboo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="557" column="16" selection-start-line="557" selection-start-column="16" selection-end-line="557" selection-end-column="16" />
+          <folding>
+            <element signature="e#19236#19237#0" expanded="true" />
+            <element signature="e#19275#19276#0" expanded="true" />
+            <element signature="e#23454#23455#0" expanded="true" />
+            <element signature="e#23494#23495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/3.3.49.ALL/alipay-sdk-java-3.3.49.ALL.jar!/com/alipay/api/internal/util/AlipaySignature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="186" column="26" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="30" column="73" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/alipay.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/config/AlipayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="18" column="1673" selection-start-line="18" selection-start-column="1673" selection-end-line="18" selection-end-column="1673" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/register2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5791">
+          <caret line="510" column="88" selection-start-line="510" selection-start-column="88" selection-end-line="510" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/notify_url.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/return_url.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding>
+            <element signature="e#799#814#0#JAVA" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/main/java/org/cdlg/controller/AlipyController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+        <state relative-caret-position="802">
+          <caret line="73" column="33" lean-forward="true" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/webapp/WEB-INF/views/my-orders.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/controller/ItemCatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/impl/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.3.RELEASE/spring-context-4.1.3.RELEASE-sources.jar!/org/springframework/stereotype/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/main/java/org/cdlg/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>

@@ -1,8 +1,10 @@
 D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\service\impl\ItemServiceImpl.java
 D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\mq\CustomerMessageListener.java
+D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\config\AlipayConfig.java
 D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\controller\ItemController.java
 D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\service\ItemService.java
 D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\controller\UserController.java
 D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\controller\UserValidController.java
+D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\controller\AlipyController.java
 D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\controller\IndexController.java
 D:\springtool\workspace\shop001\front\src\main\java\org\cdlg\service\rpc\ItemRpcService.java
